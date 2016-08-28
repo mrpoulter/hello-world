@@ -1,7 +1,4 @@
 @echo off
- @Rem This Script is Brought to you By iServeriScript.Wordpress.com
- @Rem BUT!!! if you need to present this to your boss, you can remove this. :)
- @rem and please dont forget to refer us to your friends :)
  mode 35,10
  :: Set Variables
  echo for /F "tokens=2,3,4 delims=/ " %%i in ('date/t') do set y=%%k
